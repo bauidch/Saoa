@@ -9,7 +9,7 @@ Button {
                     id: notification
                     category: "x-nemo.testing"
                     summary: "TestThings"
-                    body: "What's Up, my freind?"
+                    body: "What's Up, my friend?"
                     onClicked: console.log("Clicked")
                 }
                 text: "Application notification" + (notification.replacesId ? " ID:" + notification.replacesId : "")
