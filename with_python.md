@@ -40,8 +40,8 @@ Python {
             }
 
 
-        } ```
-
+        } 
+``` 
 ### In Python
 
 Send data to one of your Pages ```python pyotherside.send('lblText',var)``` 
