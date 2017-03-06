@@ -10,7 +10,7 @@ Settings Dialog
 
 Create settings file
 ```python
-def creat_dir:()
+def create_file:()
   homeDir = os.path.expanduser("~")
   os.chdir(homeDir + "/.config/")
   
