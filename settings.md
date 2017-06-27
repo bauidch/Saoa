@@ -6,7 +6,7 @@ Settings Dialog
 ```
 ```
 
-##Python
+## Python
 
 Create settings file
 ```python
