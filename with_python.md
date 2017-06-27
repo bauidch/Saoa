@@ -1,4 +1,4 @@
-#Work with Python in a SsilfishOS App
+ #Work with Python in a SailfishOS App
 
 ### Requirements
 
