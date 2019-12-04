@@ -1,4 +1,4 @@
-##Notification
+## Notification
 
 ``` qml
 import org.nemomobile.notifications 1.0
@@ -17,4 +17,4 @@ Button {
             }
 ```
 
-https://sailfishos.org/develop/docs/nemo-qml-plugin-notifications/qml-org-nemomobile-notifications-notification.html/
+https://sailfishos.org/develop/docs/nemo-qml-plugin-configuration/
